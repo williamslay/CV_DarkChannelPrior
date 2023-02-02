@@ -1,0 +1,25 @@
+﻿  haze_remove2.cpp
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(73,26): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(85,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(92,32): warning C4018: “<”: 有符号/无符号不匹配
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(95,36): warning C4018: “<”: 有符号/无符号不匹配
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(117,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(140,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(141,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(142,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(210,32): warning C4018: “<”: 有符号/无符号不匹配
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(214,36): warning C4018: “<”: 有符号/无符号不匹配
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(226,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(234,25): warning C4804: “>”: 在操作中使用类型“bool”不安全
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(301,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(304,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(306,19): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(318,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(331,77): warning C4305: “参数”: 从“double”到“float”截断
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(342,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(344,77): warning C4305: “参数”: 从“double”到“float”截断
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(355,19): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(364,32): warning C4018: “<”: 有符号/无符号不匹配
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(368,36): warning C4018: “<”: 有符号/无符号不匹配
+D:\Users\HP\vs\CVproject\CVproject\haze_remove2.cpp(379,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  CVproject.vcxproj -> D:\Users\HP\vs\CVproject\x64\Debug\CVproject.exe
